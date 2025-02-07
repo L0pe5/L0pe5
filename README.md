@@ -59,8 +59,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/L0pe5/L0pe5/output/snake.svg" alt="Snake animation" />
 
 ###
